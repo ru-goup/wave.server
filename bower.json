@@ -1,0 +1,21 @@
+{
+  "name": "wave.server",
+  "version": "0.0.0",
+  "homepage": "https://github.com/in-wave/wave.server",
+  "authors": [
+    "Димон Дурак <dimon.durak@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "applications/in-wave/static/elements/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer",
+    "google-signin": "GoogleWebComponents/google-signin#~0.3.0"
+  }
+}

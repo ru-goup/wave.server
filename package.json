@@ -1,0 +1,27 @@
+{
+  "name": "wave.server",
+  "version": "0.0.0",
+  "description": "in-wave.server",
+  "main": "in-wave.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/in-wave/wave.server"
+  },
+  "keywords": [
+    "in-wave",
+    "wave",
+    "волна"
+  ],
+  "author": "dimon.durak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/in-wave/wave.server/issues"
+  },
+  "homepage": "https://github.com/in-wave/wave.server",
+  "dependencies": {
+    "impress": "^0.1.250"
+  }
+}
