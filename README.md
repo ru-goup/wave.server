@@ -1,6 +1,8 @@
 in-wave.server
 ==============
 
+[![Join the chat at https://gitter.im/in-wave/wave.server](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/in-wave/wave.server?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Доброе утро!
 
 Во славу Лулза Священного и воистину just for fun приглашаю тебя принять участие в дурацкой проделке: надо сделать facebook.
